@@ -1,0 +1,8 @@
+{
+  "name": "bs-re",
+  "version": "1.0.0",
+  "description": "Description ===========",
+  "devDependencies": {
+    "bs-platform": "^1.7.4"
+  }
+}

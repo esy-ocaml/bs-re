@@ -1,0 +1,8 @@
+{
+  "name": "bs-re",
+  "sources": [
+    {
+      "dir": "lib/"
+    }
+  ]
+}
